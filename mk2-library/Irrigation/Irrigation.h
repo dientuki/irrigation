@@ -1,6 +1,6 @@
 /*
-  Irrigation.h - Library for flashing Morse code.
-  Created by David A. Mellis, November 2, 2007.
+  Irrigation.h - Library for reading a moisture sensor.
+  Created by Juan "Dientuki" Farias, October 19, 2021.
   Released into the public domain.
 */
 
